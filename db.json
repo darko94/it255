@@ -1,10 +1,12 @@
 { 
   "studenti" : [
     {
+      "id" : 1,
       "ime" : "Darko",
       "prezime" : "Misic"
     },
     {
+      "id" : 2,
       "ime" : "Pera",
       "prezime" : "Peric"
     }
