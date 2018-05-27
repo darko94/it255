@@ -1,6 +1,12 @@
 { 
-  "student" : {
-  "ime" : "Darko",
-  "prezime" : "Misic"
-  } 
+  "studenti" : [
+    {
+      "ime" : "Darko",
+      "prezime" : "Misic"
+    },
+    {
+      "ime" : "Pera",
+      "prezime" : "Peric"
+    }
+  ]
 }
